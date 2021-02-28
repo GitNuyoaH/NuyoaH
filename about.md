@@ -8,10 +8,6 @@ title: 关于我
 
 ## 我的介绍与认知
 
-程序员，工作久了学了N门语言与框架，座右铭是，编程只是手段，认知才是根本。
-
-这句话意思是，通过计算机这门人造科学来锻炼对世界的认知，例如:
-
 - 数字世界中进程/线程的调度与现实社会中工作调度它们是可以相互借鉴的；
 - 从新兴语言 nodejs, golang, scala 的兴起可以明白，只有不断适应人性、满足人们的生产过程中各种需求的工具才更受欢迎；
 - 高并发、大数据下，各类微服务框架，流运算框架迭代兴起，它们看起来眼花缭乱，实际上存在根本的线索，根本在于人类在长期的生活实践中摸索出来的管理社会、保障自身安全的各种方法
@@ -29,7 +25,7 @@ title: 关于我
 
 ### 主题
 
-一直找不到好看的主题，直到有一天在Jekyll上找到了[lightfish_zhang的主题](https://github.com/lightfish_zhang/)非常好看,这里是[lightfish_zhang的网站](https://lightfish_zhang.cn/)你可以去看看
+一直找不到好看的主题，直到有一天在Jekyll上找到了[lightfish_zhang的主题](https://github.com/lightfish_zhang/)非常好看,这里是[lightfish_zhang的网站](https://lightfish.cn/)你可以去看看
 
 ### 内容
 
