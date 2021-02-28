@@ -17,7 +17,7 @@ markdown: kramdown
 comments :
   gitalk :
     clientID : 907f48fc015def993b71
-    clientSecret : 158a43d77bb2b61a744f813af201e211a1342e49
+    clientSecret : 00c4afe89c9b175ac2531637d9cb368a80712875
     repo : https://nuyoah-l.github.io
     owner : NuyoaH-L
     admin : NuyoaH-L
