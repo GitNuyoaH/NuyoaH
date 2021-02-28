@@ -18,6 +18,6 @@ comments :
   gitalk :
     clientID : 907f48fc015def993b71
     clientSecret : 00c4afe89c9b175ac2531637d9cb368a80712875
-    repo : NuyoaH-l.github.io
+    repo : gitalk-comments
     owner : NuyoaH-L
     admin : NuyoaH-L
