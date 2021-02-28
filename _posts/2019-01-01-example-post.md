@@ -11,17 +11,4 @@ icon: book
 * content
 {:toc}
 
-## sub title
-
-page...
-
-## about thumbnail
-
-add the thumbnail url
-
-## about icon
-
-such as book, code, web, chat, note, game, link, design, image
-
-## image
 ![pkg](https://s3.ax1x.com/2021/02/26/yzi8g0.png)
