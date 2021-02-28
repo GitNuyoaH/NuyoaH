@@ -1,11 +1,12 @@
-name: 
-author: 
-url: 
+name: NuyoaH-L
+email: nuyoah-git@foxmail.com
+author: liguobao
+url: https://Nuyoah-L.github.io
 baseurl: 
-resume_site: 
-description: 
-github_username: 
-github: 
+resume_site: https://nuyoah-L.github.io
+description: 窗外日光弹指过，席前花影座前移
+github_username: NuyoaH-L
+github: https://github.com/NuyoaH-L
 plugins: [jekyll-paginate]
 permalink: /:year-:month-:day-:title
 paginate: 12
